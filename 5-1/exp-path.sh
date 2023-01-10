@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#パス名展開
+
 #任意の文字
 ls string.?
 ls string.???
